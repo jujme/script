@@ -1,3 +1,4 @@
+local Library = loadstring(game: HttpGet("https://raw.githubusercontent.com/jujme/script/main/New.lua"))()
 
 local Window = Library.CreateLib("test gui", "RJTheme3")
 
