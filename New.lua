@@ -1,4 +1,4 @@
-local Library = loadstring(game: HttpGet("https://raw.githubusercontent.com/jujme/script/main/New.lua"))()
+local Library = loadstring(game: HttpGet("https://raw.githubusercontent.com/jujme/test-gui-r1/main/testgui.lua"))()
 
 ]]
 --[[
